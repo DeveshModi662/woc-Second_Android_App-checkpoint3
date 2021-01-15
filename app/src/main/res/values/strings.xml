@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading">My Tic-Tac-Toe</string>
+    <string name="status">X turn --- tap to ppply</string>
+</resources>
